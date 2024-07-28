@@ -1,0 +1,9 @@
+Building a SMALL index
+
+[build] loading fasta file bactFrag_638R-tRNAs_single_genes+5s.fa
+[build] k-mer length: 11
+[build] counting k-mers ... done.
+[build] building target de Bruijn graph ...  done 
+[build] creating equivalence classes ...  done
+[build] target de Bruijn graph has 222 contigs and contains 2854 k-mers 
+
