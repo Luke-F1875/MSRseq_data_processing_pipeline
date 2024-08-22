@@ -1,9 +1,9 @@
-#Hi, if you are reading this then it means you want to run this pipeline of
-#MSR-seq. It is relatively simple to run. First make sure you have your data 
-#in a FastQ file from the genomics core website and the files should be in the 
-# fastq.gz format
-
 <<com
+Hi, if you are reading this then it means you want to run this pipeline of
+MSR-seq. It is relatively simple to run. First make sure you have your data 
+in a FastQ file from the genomics core website and the files should be in the fastq.gz format
+
+
 	The pipeline then consists of running 4 programs one after the other. 
 1)	shell_barcode.sh
 2)	shell_bowtie2_read2only.sh
