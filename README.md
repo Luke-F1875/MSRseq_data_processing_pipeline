@@ -24,5 +24,5 @@ to run the individual file you want do
 Normally it will look like
 ./sbatch/shell_restoffilename.sh
 
-Please read the associated manuscript for more details regarding this pipeline
+Please read the associated manuscript (https://doi.org/10.1016/bs.mie.2024.11.009) for more details regarding this pipeline
 
